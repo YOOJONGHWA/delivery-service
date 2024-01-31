@@ -44,4 +44,4 @@ bin/
 
 application.yaml
 
-delivery-service\service\api\src\main\resources\application.yaml
+delivery-service/service/api/src/main/resources/application.yaml
